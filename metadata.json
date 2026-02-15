@@ -1,0 +1,5 @@
+{
+  "name": "Image to Voxel Art Web App",
+  "description": "Create voxel art scenes (3D interactive) from any of your images.",
+  "requestFramePermissions": []
+}
